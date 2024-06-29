@@ -1,0 +1,30 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\USER\Desktop\LPC\LED BLINK.uvproj
+Project File Date:  06/28/2024
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling Startup.s...
+compiling LED BLINK.C...
+LED BLINK.C(5): error:  #65: expected a ";"
+LED BLINK.C(14): warning:  #1-D: last line of file ends without a newline
+Target not created
+Build target 'Target 1'
+compiling LED BLINK.C...
+LED BLINK.C(14): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=536 RO-data=16 RW-data=0 ZI-data=1256  
+"LED BLINK.axf" - 0 Error(s), 1 Warning(s).
+compiling C:\Keil\ARM\INC\Philips\LPC214X.h...
+Build target 'Target 1'
+assembling Startup.s...
+compiling LED BLINK.C...
+LED BLINK.C(14): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=536 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"LED BLINK.axf" - 0 Error(s), 1 Warning(s).
